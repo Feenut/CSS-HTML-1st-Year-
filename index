@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="css/style.css"/>
+	
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+
+	<div class="main">
+		<div class="top-section">
+			<img src="image/profile.JPEG" class="profile" />
+			<p class="p1">PRINCE JOHANZEN BIGORNIA</p>
+			<p class="p2"><b>Social Media Manager | Virtual Assistant | Content Creator | Customer Support</b></p>
+		</div>
+		<div class="clearfix"></div>
+
+		<div class="col-div-4">
+			<div class="content-box" style="padding-left: 40px;">
+
+				
+			<p class="head">Contact</p>
+			<p class="p3"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp;&nbsp;09561386105</p>
+			<p class="p3"><i class="fa fa-envelope" aria-hidden="true"></i> &nbsp;&nbsp;	princebigornia@gmail.com</p>
+			<p class="p3"><i class="fa fa-home" aria-hidden="true"></i> &nbsp;&nbsp;Bacolod City, Philippines</p>
+			
+
+			<br/>
+			<p class="head">my skills</p>
+			<ul class="skills">
+				<li><span>Customer Service</span></li>
+				<li><span>Data entry</span></li>
+				<li><span>Social Media Management</span></li>
+				<li><span>Video Editing</span></li>
+				<li><span>Technical Support</span></li>
+				<li><span>Content Creation</span></li>
+
+			</ul>
+
+			<br/>
+			<p class="head">education</p>
+				<p class="p3"><b>St. Benilde School</b>
+					<br>
+					2013 - 2017</p>
+					<p class="p3"><b>STI West Negros University</b>
+						<br>
+						2017 - 2019</p>
+						<p class="p3"><b>Carlos Hilado Memorial State University</b>
+							<br>
+							Bachelor of Science in Information Technology
+							<br>
+							2022 - Ongoing</p>
+			<br/>
+			</div>
+		</div>
+		<div class="line"></div>
+		<div class="col-div-8">
+			<div class="content-box">
+			<p class="head">profile</p>
+			<p class="p3" style="font-size: 14px;">I help busy business owners grow their business or rediscover their
+				work-life balance by taking on the tasks they don't have the time or
+				skills to do themselves</p>
+			<br/>
+			<p class="head">EXPERIENCE</p>
+
+			<p><b>CUSTOMER SERVICE REPRESENTATIVE - TECHNICAL SUPPORT</b></p>
+			<p class="p-4">Iqor Bacolod/Iqor Talisay
+				<br>
+				June 2019-January 2020</p>
+
+			<p><b>CUSTOMER SERVICE REPRESENTATIVE -TECHNICAL SUPPORT- SUBJECT MATTER EXPERT</b></p>
+			<p class="p-4">
+				Concentrix Bacolod
+				<br>
+				March 2020-December 2021
+			</p>
+
+			<p><b>SOCIAL MEDIA MANAGER-VIDEO
+				EDITOR-GRAPHICS ILLUSTRATOR</b></p>
+			<p class="p-4">
+				U.S Based Client, U.K Based Client
+				<br>
+				January 2022-Present
+			</p>
+			<br/>
+
+			<p class="head">CHARACTER REFERENCES</p>
+			<p><b>YZI OQUINDO</b></p>
+			<p class="p-4">
+				President College Red Cross Youth: UNO-R Chapter
+				<br>
+				09771021904
+			</p>
+			<p><b>RANDY CATAGUE</b></p>
+			<p class="p-4">
+				College Red Cross Youth Adviser, Registered Nurse
+			</p>
+
+
+			</div>
+		</div>
+
+		<div class="clearfix"></div>
+
+	</div>
+		<br/>
+</body>
+</html>
